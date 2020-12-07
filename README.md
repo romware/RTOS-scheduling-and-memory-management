@@ -1,6 +1,6 @@
 # RTOS-scheduling-and-memory-management
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/romware/RTOS-scheduling-and-memory-management)
+![version](https://img.shields.io/badge/version-3.0.0-blue)
 
 **RTOS-scheduling-and-memory-management** is a collection of C projects to demonstrate RTOS multithreaded application.
 
